@@ -1,7 +1,7 @@
 package main
 
 import (
-	"cpustats/src/core"
+	"cpustats/internal/core"
 	_ "embed"
 
 	"github.com/wailsapp/wails"
